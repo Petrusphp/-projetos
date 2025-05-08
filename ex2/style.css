@@ -1,0 +1,43 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgba(19, 15, 15, 0.89);
+    color: white;
+    padding: 20px;
+}
+.cabeca{
+    border: 1px solid;
+    border-radius: 10px;
+    text-align: center;
+    background-color: rgba(150, 147, 147, 0.432);
+    border-color: black;
+    text-align: center;
+}
+.navegar{
+    border: 1px solid;
+    text-align: center;
+    letter-spacing: 2px;
+    word-spacing: 5px;
+    border-radius: 10px;
+    box-shadow: 10px;
+    color: rgb(255, 255, 255);
+    background-color: rgb(94, 86, 86);
+    border-color: black;
+}
+.m1{
+    margin: 1px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.m2{
+    text-align: center;
+
+}
+.m3{
+    text-align: center;
+    letter-spacing: 1px;
+    text-orientation: sideways-right;
+}
+.foo{
+    text-align: center
+}
